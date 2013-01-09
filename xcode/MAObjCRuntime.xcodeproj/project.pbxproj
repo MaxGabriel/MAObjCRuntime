@@ -49,6 +49,7 @@
 		22A07B1015241B00008A2A36 /* Test_iOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Test_iOS.h; path = ../Test_iOS.h; sourceTree = "<group>"; };
 		22A07B1115241B00008A2A36 /* Test_iOS.h.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Test_iOS.h.m; path = ../Test_iOS.h.m; sourceTree = "<group>"; };
 		32A70AAB03705E1F00C91783 /* MAObjCRuntime_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MAObjCRuntime_Prefix.pch; sourceTree = "<group>"; };
+		50285713169D4D22007D6980 /* MAObjCRuntime.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MAObjCRuntime.h; path = ../MAObjCRuntime.h; sourceTree = "<group>"; };
 		794569E71481810F006AD2EB /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ../main.m; sourceTree = "<group>"; };
 		794569E81481810F006AD2EB /* MARTNSObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MARTNSObject.h; path = ../MARTNSObject.h; sourceTree = "<group>"; };
 		794569E91481810F006AD2EB /* MARTNSObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MARTNSObject.m; path = ../MARTNSObject.m; sourceTree = "<group>"; };
@@ -99,6 +100,7 @@
 		08FB7794FE84155DC02AAC07 /* MAObjCRuntime */ = {
 			isa = PBXGroup;
 			children = (
+				50285713169D4D22007D6980 /* MAObjCRuntime.h */,
 				794569E71481810F006AD2EB /* main.m */,
 				794569E81481810F006AD2EB /* MARTNSObject.h */,
 				794569E91481810F006AD2EB /* MARTNSObject.m */,
